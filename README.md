@@ -45,12 +45,17 @@ PROJETOS DA SOLUÇÃO
 
 • EatPizza.Tests: Contém os testes automatizados. Permite testar os commands, queries e controllers utilizando dados mockados.
 
+*******************************
+POSTMAN COLLECTION - TESTES
+*******************************
+
+• EatPizza.postman_collection.json
 
 *******************************
 DADOS DO PROJETO
 *******************************
 
-.NET Core
+.NET Core 3.1
 
 Swagger
 
